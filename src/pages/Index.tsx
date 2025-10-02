@@ -33,7 +33,7 @@ const Index = () => {
               <Button 
                 size="lg" 
                 className="bg-gradient-to-r from-primary to-yellow-600 hover:from-yellow-600 hover:to-primary text-background font-bold text-lg px-10 py-6 rounded-xl shadow-2xl shadow-primary/50 transition-all duration-300 hover:scale-105"
-                onClick={() => window.open('https://t.me/+QgiLIa1gFRY4Y2Iy', '_blank')}
+                onClick={() => window.open('https://t.me/tplain_academybot', '_blank')}
               >
                 <Icon name="Send" className="mr-2" size={24} />
                 Получить бесплатный гайд
@@ -275,7 +275,7 @@ const Index = () => {
               <Button 
                 size="lg" 
                 className="bg-gradient-to-r from-primary to-yellow-600 hover:from-yellow-600 hover:to-primary text-background font-bold text-xl px-12 py-8 rounded-2xl shadow-2xl shadow-primary/50 transition-all duration-300 hover:scale-110"
-                onClick={() => window.open('https://t.me/+QgiLIa1gFRY4Y2Iy', '_blank')}
+                onClick={() => window.open('https://t.me/tplain_academybot', '_blank')}
               >
                 <Icon name="Download" className="mr-3" size={28} />
                 Получить бесплатный гайд
