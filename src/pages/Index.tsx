@@ -58,8 +58,8 @@ const Index = () => {
                 <div className="text-sm text-muted-foreground">Успешных сделок</div>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-primary mb-2">$2M+</div>
-                <div className="text-sm text-muted-foreground">Заработано клиентами</div>
+                <div className="text-4xl font-bold text-primary mb-2">$250K+</div>
+                <div className="text-sm text-muted-foreground">Заработано учениками</div>
               </div>
             </div>
           </div>
