@@ -21,9 +21,7 @@ const Index = () => {
             
             <h1 className="text-5xl md:text-7xl font-bold leading-tight">
               Овладей искусством
-              <span className="block mt-2 bg-gradient-to-r from-primary via-yellow-500 to-primary bg-clip-text text-transparent animate-shimmer bg-[length:200%_100%]">
-                трейдинга крипты
-              </span>
+              <span className="block mt-2 bg-gradient-to-r from-primary via-yellow-500 to-primary bg-clip-text text-transparent animate-shimmer bg-[length:200%_100%]">трейдинга криптовалют</span>
               и форекс
             </h1>
             
